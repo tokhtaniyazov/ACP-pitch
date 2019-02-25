@@ -10,4 +10,4 @@
 - Квантование по уровню
 ---
 **Дискретизация сигнала**
-![](image=assets/images/Дискретизация.png&size=auto100%)
++++image=assets/images/Дискретизация.png&size=auto100%
