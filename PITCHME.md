@@ -17,13 +17,7 @@
 - Интегрирующие АЦП;
 - Сигма-дельта АЦП
 ---
-## Как устроено АЦП? 
-![5](assets/images/5.png&size=auto 100%) 
-- Компоратор - одноразрядный АЦП
-![7](assets/images/6.png)
-
----
-![6](assets/images/123.gif)
+---?include=assets/temp/PITCHME.md
 
 ---
 ## Характеристики АЦП
