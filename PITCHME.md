@@ -17,9 +17,9 @@
 - Интегрирующие АЦП;
 - Сигма-дельта АЦП
 ---
-## КАК устроено АЦП? 
+## Как устроено АЦП? 
 ![5](assets/images/5.png) 
-![6](assets\images\Animation.gif
++++?image=assets\images\Animation.gif&size=auto
 
 ---
 ## Характеристики АЦП
