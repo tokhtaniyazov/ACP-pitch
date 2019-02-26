@@ -19,7 +19,7 @@
 ---
 ## Как устроено АЦП? 
 ![5](assets/images/5.png) 
-+++?image=assets\images\Animation.gif&size=auto
++++?image=assets\images\123.gif
 
 ---
 ## Характеристики АЦП
