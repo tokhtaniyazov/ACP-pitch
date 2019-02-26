@@ -2,7 +2,7 @@
 ![10](assets/images/5.png) 
 
 +++?image=assets/images/6.png&size=auto  
-
+<br><br>
 - **Компоратор - одноразрядный АЦП**
 
 ---
