@@ -18,8 +18,8 @@
 - Сигма-дельта АЦП
 ---
 ## КАК устроено АЦП? 
-![5](assets\images\5.png) |
-![6](assets\images\Animation.gif)
+![5](assets/images/5.png) 
+![6](assets\images\Animation.gif
 
 ---
 ## Характеристики АЦП
