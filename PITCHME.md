@@ -21,7 +21,7 @@
 ![5](assets/images/5.png) 
 
 ---
-![6](assets/images/123.png)
+![6](assets/images/123.gif)
 
 ---
 ## Характеристики АЦП
