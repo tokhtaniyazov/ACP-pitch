@@ -18,7 +18,7 @@
 - Сигма-дельта АЦП
 ---
 ## Как устроено АЦП? 
-![5](assets/images/5.png) 
+![5](assets/images/5.png&size=auto 100%) 
 - Компоратор - одноразрядный АЦП
 ![7](assets/images/6.png)
 
