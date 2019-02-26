@@ -3,7 +3,7 @@
 
 +++?image=assets/images/6.png&size=auto  
 
-<br>
+<br><br><br>
 
 - **Компоратор - одноразрядный АЦП**
 
